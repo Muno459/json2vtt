@@ -3,7 +3,6 @@
 `json2vtt.py` turns machine-transcribed JSON (ElevenLabs, Whisper, Speechmatics, or a flat word list) into broadcast-grade WebVTT or SRT captions.  
 It enforces hard timing/layout limits while offering smart heuristics for natural phrase breaks.
 
----
 ## Features
 
 * **Multiple input schemas** – supports:
