@@ -22,19 +22,13 @@ It enforces hard timing/layout limits while offering smart heuristics for natura
 ---
 ## Quick start
 
-### 1. Install dependencies (Python 3.8+)
-```bash
-pip install -r requirements.txt   # currently only standard library needed
-```
-*The script uses only the Python standard library, but a requirements file is provided for future extras.*
-
-### 2. Convert JSON → VTT
+### 1. Convert JSON → VTT
 ```bash
 python json2vtt.py my_transcript.json my_subs.vtt
 ```
 Defaults: WebVTT, speaker prefixes off (change in code), smart gap handling, pause flush = 0.8 s.
 
-### 3. Convert JSON → SRT
+### 2. Convert JSON → SRT
 ```bash
 python json2vtt.py my_transcript.json my_subs.srt --srt
 ```
@@ -83,7 +77,7 @@ Run `python json2vtt.py --help` for the full list.
 ```json
 {"words": [{"text": "Hello", "start": 0.0, "end": 0.5}]}
 ```
-3. **Flat list**
+3. **Avanegar / Flat list**
 ```json
 [{"word": "Hello", "start": 0.0, "end": 0.5}, {"word": "world", ...}]
 ```
