@@ -18,7 +18,6 @@ It enforces hard timing/layout limits while offering smart heuristics for natura
 * **Frame-accurate snap** – optional `--fps` to align to video frame boundaries.
 * **Clean CLI** – every heuristic can be tuned or disabled via flags.
 
----
 ## Quick start
 
 ### 1. Convert JSON → VTT
@@ -32,7 +31,7 @@ Defaults: WebVTT, speaker prefixes off (change in code), smart gap handling, pau
 python json2vtt.py my_transcript.json my_subs.srt --srt
 ```
 
----
+
 ## CLI options (abridged)
 ```
 Quality knobs:
@@ -58,7 +57,7 @@ Validation & logging:
 Run `python json2vtt.py --help` for the full list.
 ```
 
----
+
 ## Input schemas
 
 1. **ElevenLabs diarisation**
@@ -81,7 +80,7 @@ Run `python json2vtt.py --help` for the full list.
 [{"word": "Hello", "start": 0.0, "end": 0.5}, {"word": "world", ...}]
 ```
 
----
+
 ## Examples
 
 1. **Lower the pause threshold & snap to 25 fps**
@@ -99,7 +98,6 @@ python json2vtt.py doc.json out.srt --srt --dash-gap 0 --min-cue 0.4
 python json2vtt.py episode.json episode.vtt --strict --verbose
 ```
 
----
 ## FAQ
 
 **Q: My cues drift late over time.**  
@@ -113,6 +111,6 @@ A: Uncomment `SPEAKER_PREFIX_FMT` in the source or pass `--no-speaker` to suppre
 
 **Q: Frame accuracy?**  
 A: Use `--fps` with your video's frame rate; timestamps snap to frame boundaries.
----
+
 ## License
 MIT 
