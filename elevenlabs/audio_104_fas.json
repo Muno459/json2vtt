@@ -1,0 +1,593 @@
+{
+  "language_code": "fas",
+  "segments": [
+    {
+      "text": "\u062e\u0627\u0646\u0645 \u062f\u06a9\u062a\u0631. \u0627\u0634\u0627\u0631\u0647 \u0645\u06cc \u0641\u0631\u0645\u0627\u06cc\u06cc\u062f.",
+      "start_time": 0.039,
+      "end_time": 1.659,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "\u062e\u0627\u0646\u0645",
+          "start_time": 0.039,
+          "end_time": 0.28
+        },
+        {
+          "text": " ",
+          "start_time": 0.28,
+          "end_time": 0.28
+        },
+        {
+          "text": "\u062f\u06a9\u062a\u0631.",
+          "start_time": 0.28,
+          "end_time": 0.56
+        },
+        {
+          "text": " ",
+          "start_time": 0.56,
+          "end_time": 0.56
+        },
+        {
+          "text": "\u0627\u0634\u0627\u0631\u0647",
+          "start_time": 0.56,
+          "end_time": 0.859
+        },
+        {
+          "text": " ",
+          "start_time": 0.859,
+          "end_time": 0.859
+        },
+        {
+          "text": "\u0645\u06cc",
+          "start_time": 0.859,
+          "end_time": 1.0
+        },
+        {
+          "text": " ",
+          "start_time": 1.0,
+          "end_time": 1.0
+        },
+        {
+          "text": "\u0641\u0631\u0645\u0627\u06cc\u06cc\u062f.",
+          "start_time": 1.0,
+          "end_time": 1.659
+        }
+      ]
+    },
+    {
+      "text": "\u0634\u0627\u06cc\u062f \u0627\u06af\u0631 \u0645\u0646 \u0628\u062e\u0648\u0627\u0647\u0645 \u0627\u0633\u0645 \u0628\u0628\u0631\u0645 \u0627\u06cc\u0646\u062c\u0627 \u06cc\u06a9 \u062c\u0646\u0628\u0647",
+      "start_time": 2.539,
+      "end_time": 5.759,
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Speaker 1"
+      },
+      "words": [
+        {
+          "text": "\u0634\u0627\u06cc\u062f",
+          "start_time": 2.539,
+          "end_time": 2.799
+        },
+        {
+          "text": " ",
+          "start_time": 2.799,
+          "end_time": 2.799
+        },
+        {
+          "text": "\u0627\u06af\u0631",
+          "start_time": 2.799,
+          "end_time": 2.999
+        },
+        {
+          "text": " ",
+          "start_time": 2.999,
+          "end_time": 3.019
+        },
+        {
+          "text": "\u0645\u0646",
+          "start_time": 3.019,
+          "end_time": 3.139
+        },
+        {
+          "text": " ",
+          "start_time": 3.139,
+          "end_time": 3.139
+        },
+        {
+          "text": "\u0628\u062e\u0648\u0627\u0647\u0645",
+          "start_time": 3.139,
+          "end_time": 3.519
+        },
+        {
+          "text": " ",
+          "start_time": 3.519,
+          "end_time": 3.539
+        },
+        {
+          "text": "\u0627\u0633\u0645",
+          "start_time": 3.539,
+          "end_time": 3.859
+        },
+        {
+          "text": " ",
+          "start_time": 3.859,
+          "end_time": 3.919
+        },
+        {
+          "text": "\u0628\u0628\u0631\u0645",
+          "start_time": 3.919,
+          "end_time": 4.419
+        },
+        {
+          "text": " ",
+          "start_time": 4.419,
+          "end_time": 4.42
+        },
+        {
+          "text": "\u0627\u06cc\u0646\u062c\u0627",
+          "start_time": 4.42,
+          "end_time": 4.659
+        },
+        {
+          "text": " ",
+          "start_time": 4.659,
+          "end_time": 4.679
+        },
+        {
+          "text": "\u06cc\u06a9",
+          "start_time": 4.679,
+          "end_time": 4.839
+        },
+        {
+          "text": " ",
+          "start_time": 4.839,
+          "end_time": 5.4
+        },
+        {
+          "text": "\u062c\u0646\u0628\u0647",
+          "start_time": 5.4,
+          "end_time": 5.759
+        }
+      ]
+    },
+    {
+      "text": "\u062a\u0628\u0644\u06cc\u063a\u06cc \u067e\u06cc\u062f\u0627 \u0645\u06cc\u06a9\u0646\u062f. \u0648\u0644\u06cc \u0645\u0646 \u062e\u0648\u0627\u0647\u0634\u0645 \u0627\u06cc\u0646 \u0647\u0633\u062a",
+      "start_time": 5.779,
+      "end_time": 8.159,
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Speaker 1"
+      },
+      "words": [
+        {
+          "text": "\u062a\u0628\u0644\u06cc\u063a\u06cc",
+          "start_time": 5.779,
+          "end_time": 6.319
+        },
+        {
+          "text": " ",
+          "start_time": 6.319,
+          "end_time": 6.319
+        },
+        {
+          "text": "\u067e\u06cc\u062f\u0627",
+          "start_time": 6.319,
+          "end_time": 6.639
+        },
+        {
+          "text": " ",
+          "start_time": 6.639,
+          "end_time": 6.679
+        },
+        {
+          "text": "\u0645\u06cc\u06a9\u0646\u062f.",
+          "start_time": 6.679,
+          "end_time": 7.039
+        },
+        {
+          "text": " ",
+          "start_time": 7.039,
+          "end_time": 7.059
+        },
+        {
+          "text": "\u0648\u0644\u06cc",
+          "start_time": 7.059,
+          "end_time": 7.199
+        },
+        {
+          "text": " ",
+          "start_time": 7.199,
+          "end_time": 7.219
+        },
+        {
+          "text": "\u0645\u0646",
+          "start_time": 7.219,
+          "end_time": 7.399
+        },
+        {
+          "text": " ",
+          "start_time": 7.399,
+          "end_time": 7.419
+        },
+        {
+          "text": "\u062e\u0648\u0627\u0647\u0634\u0645",
+          "start_time": 7.419,
+          "end_time": 7.819
+        },
+        {
+          "text": " ",
+          "start_time": 7.819,
+          "end_time": 7.819
+        },
+        {
+          "text": "\u0627\u06cc\u0646",
+          "start_time": 7.819,
+          "end_time": 7.939
+        },
+        {
+          "text": " ",
+          "start_time": 7.939,
+          "end_time": 7.96
+        },
+        {
+          "text": "\u0647\u0633\u062a",
+          "start_time": 7.96,
+          "end_time": 8.159
+        }
+      ]
+    },
+    {
+      "text": "\u06a9\u0647 \u062f\u0648\u0633\u062a\u0627\u0646 \u0628\u0632\u0631\u06af\u0648\u0627\u0631 \u0627\u06af\u0631 \u0645\u06cc\u062e\u0648\u0627\u0647\u0646\u062f \u0628\u0627 \u0627\u06cc\u0646",
+      "start_time": 8.3,
+      "end_time": 10.119,
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Speaker 1"
+      },
+      "words": [
+        {
+          "text": "\u06a9\u0647",
+          "start_time": 8.3,
+          "end_time": 8.439
+        },
+        {
+          "text": " ",
+          "start_time": 8.439,
+          "end_time": 8.439
+        },
+        {
+          "text": "\u062f\u0648\u0633\u062a\u0627\u0646",
+          "start_time": 8.439,
+          "end_time": 8.779
+        },
+        {
+          "text": " ",
+          "start_time": 8.779,
+          "end_time": 8.859
+        },
+        {
+          "text": "\u0628\u0632\u0631\u06af\u0648\u0627\u0631",
+          "start_time": 8.859,
+          "end_time": 9.359
+        },
+        {
+          "text": " ",
+          "start_time": 9.359,
+          "end_time": 9.359
+        },
+        {
+          "text": "\u0627\u06af\u0631",
+          "start_time": 9.359,
+          "end_time": 9.539
+        },
+        {
+          "text": " ",
+          "start_time": 9.539,
+          "end_time": 9.559
+        },
+        {
+          "text": "\u0645\u06cc\u062e\u0648\u0627\u0647\u0646\u062f",
+          "start_time": 9.559,
+          "end_time": 9.899
+        },
+        {
+          "text": " ",
+          "start_time": 9.899,
+          "end_time": 9.899
+        },
+        {
+          "text": "\u0628\u0627",
+          "start_time": 9.899,
+          "end_time": 9.979
+        },
+        {
+          "text": " ",
+          "start_time": 9.979,
+          "end_time": 9.979
+        },
+        {
+          "text": "\u0627\u06cc\u0646",
+          "start_time": 9.979,
+          "end_time": 10.119
+        }
+      ]
+    },
+    {
+      "text": "\u0628\u0627\u0632\u06cc\u0647\u0627 \u0628\u06cc\u0634\u062a\u0631 \u0622\u0634\u0646\u0627 \u0628\u0634\u0648\u0646\u062f \u0628\u0647 \u0633\u0627\u06cc\u062a",
+      "start_time": 10.119,
+      "end_time": 12.22,
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Speaker 1"
+      },
+      "words": [
+        {
+          "text": "\u0628\u0627\u0632\u06cc\u0647\u0627",
+          "start_time": 10.119,
+          "end_time": 10.579
+        },
+        {
+          "text": " ",
+          "start_time": 10.579,
+          "end_time": 10.579
+        },
+        {
+          "text": "\u0628\u06cc\u0634\u062a\u0631",
+          "start_time": 10.579,
+          "end_time": 10.94
+        },
+        {
+          "text": " ",
+          "start_time": 10.94,
+          "end_time": 10.96
+        },
+        {
+          "text": "\u0622\u0634\u0646\u0627",
+          "start_time": 10.96,
+          "end_time": 11.239
+        },
+        {
+          "text": " ",
+          "start_time": 11.239,
+          "end_time": 11.279
+        },
+        {
+          "text": "\u0628\u0634\u0648\u0646\u062f",
+          "start_time": 11.279,
+          "end_time": 11.619
+        },
+        {
+          "text": " ",
+          "start_time": 11.619,
+          "end_time": 11.639
+        },
+        {
+          "text": "\u0628\u0647",
+          "start_time": 11.639,
+          "end_time": 11.739
+        },
+        {
+          "text": " ",
+          "start_time": 11.739,
+          "end_time": 11.84
+        },
+        {
+          "text": "\u0633\u0627\u06cc\u062a",
+          "start_time": 11.84,
+          "end_time": 12.22
+        }
+      ]
+    },
+    {
+      "text": "\u0634\u0648\u0631\u0627\u06cc \u0646\u0638\u0627\u0631\u062a \u0628\u0631 \u0627\u0633\u0628\u0627\u0628 \u0628\u0627\u0632\u06cc \u06a9\u0627\u0646\u0648\u0646 \u067e\u0631\u0648\u0631\u0634 \u0641\u06a9\u0631\u06cc",
+      "start_time": 13.179,
+      "end_time": 16.379,
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Speaker 1"
+      },
+      "words": [
+        {
+          "text": "\u0634\u0648\u0631\u0627\u06cc",
+          "start_time": 13.179,
+          "end_time": 13.5
+        },
+        {
+          "text": " ",
+          "start_time": 13.5,
+          "end_time": 13.579
+        },
+        {
+          "text": "\u0646\u0638\u0627\u0631\u062a",
+          "start_time": 13.579,
+          "end_time": 14.139
+        },
+        {
+          "text": " ",
+          "start_time": 14.139,
+          "end_time": 14.139
+        },
+        {
+          "text": "\u0628\u0631",
+          "start_time": 14.139,
+          "end_time": 14.379
+        },
+        {
+          "text": " ",
+          "start_time": 14.379,
+          "end_time": 14.399
+        },
+        {
+          "text": "\u0627\u0633\u0628\u0627\u0628",
+          "start_time": 14.399,
+          "end_time": 14.819
+        },
+        {
+          "text": " ",
+          "start_time": 14.819,
+          "end_time": 14.839
+        },
+        {
+          "text": "\u0628\u0627\u0632\u06cc",
+          "start_time": 14.839,
+          "end_time": 15.219
+        },
+        {
+          "text": " ",
+          "start_time": 15.219,
+          "end_time": 15.219
+        },
+        {
+          "text": "\u06a9\u0627\u0646\u0648\u0646",
+          "start_time": 15.219,
+          "end_time": 15.519
+        },
+        {
+          "text": " ",
+          "start_time": 15.519,
+          "end_time": 15.579
+        },
+        {
+          "text": "\u067e\u0631\u0648\u0631\u0634",
+          "start_time": 15.579,
+          "end_time": 16.0
+        },
+        {
+          "text": " ",
+          "start_time": 16.0,
+          "end_time": 16.079
+        },
+        {
+          "text": "\u0641\u06a9\u0631\u06cc",
+          "start_time": 16.079,
+          "end_time": 16.379
+        }
+      ]
+    },
+    {
+      "text": "\u06a9\u0648\u062f\u06a9\u0627\u0646 \u0648 \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0645\u0631\u0627\u062c\u0639\u0647 \u06a9\u0646\u0646\u062f. \u062f\u0631 \u0622\u0646\u062c\u0627 \u06cc\u06a9",
+      "start_time": 16.479,
+      "end_time": 19.34,
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Speaker 1"
+      },
+      "words": [
+        {
+          "text": "\u06a9\u0648\u062f\u06a9\u0627\u0646",
+          "start_time": 16.479,
+          "end_time": 16.979
+        },
+        {
+          "text": " ",
+          "start_time": 16.979,
+          "end_time": 16.979
+        },
+        {
+          "text": "\u0648",
+          "start_time": 16.979,
+          "end_time": 17.039
+        },
+        {
+          "text": " ",
+          "start_time": 17.039,
+          "end_time": 17.059
+        },
+        {
+          "text": "\u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646",
+          "start_time": 17.059,
+          "end_time": 17.719
+        },
+        {
+          "text": " ",
+          "start_time": 17.719,
+          "end_time": 17.719
+        },
+        {
+          "text": "\u0645\u0631\u0627\u062c\u0639\u0647",
+          "start_time": 17.719,
+          "end_time": 18.239
+        },
+        {
+          "text": " ",
+          "start_time": 18.239,
+          "end_time": 18.239
+        },
+        {
+          "text": "\u06a9\u0646\u0646\u062f.",
+          "start_time": 18.239,
+          "end_time": 18.639
+        },
+        {
+          "text": " ",
+          "start_time": 18.639,
+          "end_time": 18.639
+        },
+        {
+          "text": "\u062f\u0631",
+          "start_time": 18.639,
+          "end_time": 18.819
+        },
+        {
+          "text": " ",
+          "start_time": 18.819,
+          "end_time": 18.819
+        },
+        {
+          "text": "\u0622\u0646\u062c\u0627",
+          "start_time": 18.819,
+          "end_time": 19.159
+        },
+        {
+          "text": " ",
+          "start_time": 19.159,
+          "end_time": 19.159
+        },
+        {
+          "text": "\u06cc\u06a9",
+          "start_time": 19.159,
+          "end_time": 19.34
+        }
+      ]
+    },
+    {
+      "text": "\u0628\u062e\u0634\u06cc \u062f\u0627\u0631\u06cc\u0645 \u0628\u0647.",
+      "start_time": 19.359,
+      "end_time": 19.979,
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Speaker 1"
+      },
+      "words": [
+        {
+          "text": "\u0628\u062e\u0634\u06cc",
+          "start_time": 19.359,
+          "end_time": 19.719
+        },
+        {
+          "text": " ",
+          "start_time": 19.719,
+          "end_time": 19.739
+        },
+        {
+          "text": "\u062f\u0627\u0631\u06cc\u0645",
+          "start_time": 19.739,
+          "end_time": 19.959
+        },
+        {
+          "text": " ",
+          "start_time": 19.959,
+          "end_time": 19.959
+        },
+        {
+          "text": "\u0628\u0647.",
+          "start_time": 19.959,
+          "end_time": 19.979
+        }
+      ]
+    }
+  ]
+}
